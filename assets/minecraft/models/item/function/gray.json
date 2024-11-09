@@ -1,0 +1,23 @@
+{
+	"credit": "alexemmet",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "assets/function/gray",
+		"particle": "assets/function/gray"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 16],
+			"to": [32, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 16]},
+			"faces": {
+				"north": {"uv": [2.66665, 0, 1.33333, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"south": {"uv": [1.33333, 0, 2.66665, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#0"}
+			}
+		}
+	]
+}

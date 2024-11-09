@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/prismarine_shard"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":10100}, "model": "cosmetics:models/item/plushies/plushie/alex"},
+		{"predicate": {"custom_model_data":10200}, "model": "cosmetics:models/item/plushies/plushie/elibrio"},
+		{"predicate": {"custom_model_data":10300}, "model": "cosmetics:models/item/plushies/plushie/flo"},
+		{"predicate": {"custom_model_data":10400}, "model": "cosmetics:models/item/plushies/plushie/yaku"},
+		{"predicate": {"custom_model_data":10500}, "model": "cosmetics:models/item/plushies/plushie/jreap"},
+		{"predicate": {"custom_model_data":10600}, "model": "cosmetics:models/item/plushies/plushie/ssc"},
+		{"predicate": {"custom_model_data":10700}, "model": "cosmetics:models/item/plushies/plushie/xlagging"},
+		{"predicate": {"custom_model_data":10800}, "model": "cosmetics:models/item/plushies/plushie/yluz"},	
+		{"predicate": {"custom_model_data":10900}, "model": "cosmetics:models/item/plushies/plushie/mewjo_"}
+	]
+}

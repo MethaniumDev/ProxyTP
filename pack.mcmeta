@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "Methaniums main textures!",
+	"supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 99
+    }
+  }
+}

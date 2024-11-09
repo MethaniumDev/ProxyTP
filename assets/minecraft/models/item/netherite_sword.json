@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	"overrides": [
+		
+		{"predicate": {"custom_model_data": 100}, "model": "cosmetics:models/item/hands/blades/burning/burning_netherite_sword"},
+		{"predicate": {"custom_model_data": 101}, "model": "cosmetics:models/item/hands/blades/rainbow/rainbow_netherite_sword"}
+	]
+}

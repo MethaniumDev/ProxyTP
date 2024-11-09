@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 100}, "model": "cosmetics:models/item/hands/blades/burning/burning_iron_sword"},
+		{"predicate": {"custom_model_data": 101}, "model": "cosmetics:models/item/hands/blades/rainbow/rainbow_iron_sword"}
+	]
+}

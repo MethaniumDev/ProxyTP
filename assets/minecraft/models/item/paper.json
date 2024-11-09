@@ -1,0 +1,40 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "item/test/test"},
+		{"predicate": {"custom_model_data":200}, "model": "item/wings/devilwings/devilwings"},
+
+		{"predicate": {"custom_model_data":10100}, "model": "item/wings/butterfly/butterfly1"},
+		{"predicate": {"custom_model_data":10200}, "model": "item/wings/butterfly/butterfly2"},
+		{"predicate": {"custom_model_data":10300}, "model": "item/wings/butterfly/butterfly3"},
+		{"predicate": {"custom_model_data":10400}, "model": "item/wings/butterfly/butterfly4"},
+		{"predicate": {"custom_model_data":10500}, "model": "item/wings/butterfly/butterfly5"},
+		{"predicate": {"custom_model_data":10600}, "model": "item/wings/butterfly/butterfly6"},
+		{"predicate": {"custom_model_data":10700}, "model": "item/wings/butterfly/butterfly7"},
+		{"predicate": {"custom_model_data":10800}, "model": "item/wings/butterfly/butterfly8"},
+		{"predicate": {"custom_model_data":10900}, "model": "item/wings/butterfly/butterfly9"},
+		{"predicate": {"custom_model_data":11000}, "model": "item/wings/butterfly/butterfly10"},
+		{"predicate": {"custom_model_data":11100}, "model": "item/wings/butterfly/butterfly11"},
+		{"predicate": {"custom_model_data":11200}, "model": "item/wings/butterfly/butterfly12"},
+		{"predicate": {"custom_model_data":11300}, "model": "item/wings/butterfly/butterfly13"},
+		{"predicate": {"custom_model_data":11400}, "model": "item/wings/butterfly/butterfly14"},
+		{"predicate": {"custom_model_data":11500}, "model": "item/wings/butterfly/butterfly15"},
+		{"predicate": {"custom_model_data":11600}, "model": "item/wings/butterfly/butterfly16"},
+		
+		{"predicate": {"custom_model_data":20100}, "model": "item/wings/angelwings/angelwings"},
+		
+		{"predicate": {"custom_model_data":30100}, "model": "item/backpacks/wood/oak"},
+		{"predicate": {"custom_model_data":30101}, "model": "item/backpacks/wood/spruce"},
+		{"predicate": {"custom_model_data":30102}, "model": "item/backpacks/wood/acacia"},
+		{"predicate": {"custom_model_data":30103}, "model": "item/backpacks/wood/dark_oak"},
+		{"predicate": {"custom_model_data":30104}, "model": "item/backpacks/wood/crimson"},
+		{"predicate": {"custom_model_data":30105}, "model": "item/backpacks/wood/warped"},
+		{"predicate": {"custom_model_data":30106}, "model": "item/backpacks/wood/mangrove"},
+		{"predicate": {"custom_model_data":30107}, "model": "item/backpacks/wood/cherry"},
+		{"predicate": {"custom_model_data":30108}, "model": "item/backpacks/wood/bamboo"}
+	]
+}

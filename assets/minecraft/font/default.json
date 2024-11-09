@@ -1,0 +1,15 @@
+{"providers":[
+	
+	{"file":"methanium:font/edit_social.png","chars":["\uE119"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/player.png","chars":["\uE120"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/cosmetics.png","chars":["\uE121"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/cosmetic_choose.png","chars":["\uE122"],"height":256,"ascent":47,"type":"bitmap"},
+	
+	{"file":"methanium:font/party.png","chars":["\uE123"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/clan.png","chars":["\uE124"],"height":256,"ascent":56,"type":"bitmap"},
+	{"file":"methanium:font/browse.png","chars":["\uE125"],"height":256,"ascent":47,"type":"bitmap"},
+	
+	{"file":"methanium:font/nsp.png","chars":["\uE18D"],"height":-170,"ascent":-2000,"type":"bitmap"},
+	
+	{"file":"methanium:font/nsp.png","chars":["\uE190"],"height":-50,"ascent":-2000,"type":"bitmap"}
+]}

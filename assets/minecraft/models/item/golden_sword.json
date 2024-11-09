@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_sword"	},
+	"overrides": [
+
+		{"predicate": {"custom_model_data": 100}, "model": "cosmetics:models/item/hands/blades/burning/burning_golden_sword"},
+		{"predicate": {"custom_model_data": 101}, "model": "cosmetics:models/item/hands/blades/rainbow/rainbow_golden_sword"}
+	]
+}
