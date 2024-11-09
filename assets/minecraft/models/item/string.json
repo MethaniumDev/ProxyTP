@@ -9,14 +9,14 @@
 		{"predicate": {"custom_model_data":3}, "model": "item/selector/discord"},
 		{"predicate": {"custom_model_data":4}, "model": "item/selector/web"},
 		
-		{"predicate": {"custom_model_data":10100}, "model": "cosmetics:models/item/backpacks/wood/oak"},
-		{"predicate": {"custom_model_data":10101}, "model": "cosmetics:models/item/backpacks/wood/spruce"},
-		{"predicate": {"custom_model_data":10102}, "model": "cosmetics:models/item/backpacks/wood/acacia"},
-		{"predicate": {"custom_model_data":10103}, "model": "cosmetics:models/item/backpacks/wood/dark_oak"},
-		{"predicate": {"custom_model_data":10104}, "model": "cosmetics:models/item/backpacks/wood/crimson"},
-		{"predicate": {"custom_model_data":10105}, "model": "cosmetics:models/item/backpacks/wood/warped"},
-		{"predicate": {"custom_model_data":10106}, "model": "cosmetics:models/item/backpacks/wood/mangrove"},
-		{"predicate": {"custom_model_data":10107}, "model": "cosmetics:models/item/backpacks/wood/cherry"},
-		{"predicate": {"custom_model_data":10108}, "model": "cosmetics:models/item/backpacks/wood/bamboo"}
+		{"predicate": {"custom_model_data":10100}, "model": "cosmetics:item/backpacks/wood/oak"},
+		{"predicate": {"custom_model_data":10101}, "model": "cosmetics:item/backpacks/wood/spruce"},
+		{"predicate": {"custom_model_data":10102}, "model": "cosmetics:item/backpacks/wood/acacia"},
+		{"predicate": {"custom_model_data":10103}, "model": "cosmetics:item/backpacks/wood/dark_oak"},
+		{"predicate": {"custom_model_data":10104}, "model": "cosmetics:item/backpacks/wood/crimson"},
+		{"predicate": {"custom_model_data":10105}, "model": "cosmetics:item/backpacks/wood/warped"},
+		{"predicate": {"custom_model_data":10106}, "model": "cosmetics:item/backpacks/wood/mangrove"},
+		{"predicate": {"custom_model_data":10107}, "model": "cosmetics:item/backpacks/wood/cherry"},
+		{"predicate": {"custom_model_data":10108}, "model": "cosmetics:item/backpacks/wood/bamboo"}
 	]
 }
