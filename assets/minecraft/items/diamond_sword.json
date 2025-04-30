@@ -1,0 +1,866 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/diamond_sword"
+        },
+        "entries": [
+            {
+                "threshold": 201000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_emerald_birch"
+                }
+            },
+            {
+                "threshold": 201001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_emerald_cherry"
+                }
+            },
+            {
+                "threshold": 201002,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_emerald_oak"
+                }
+            },
+            {
+                "threshold": 201003,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_emerald_spruce"
+                }
+            },
+            {
+                "threshold": 201004,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_gold_birch"
+                }
+            },
+            {
+                "threshold": 201005,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_gold_cherry"
+                }
+            },
+            {
+                "threshold": 201006,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_gold_oak"
+                }
+            },
+            {
+                "threshold": 201007,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_gold_spruce"
+                }
+            },
+            {
+                "threshold": 201008,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_iron_birch"
+                }
+            },
+            {
+                "threshold": 201009,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_iron_cherry"
+                }
+            },
+            {
+                "threshold": 201010,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_iron_oak"
+                }
+            },
+            {
+                "threshold": 201011,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_iron_spruce"
+                }
+            },
+            {
+                "threshold": 201012,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_lapis_birch"
+                }
+            },
+            {
+                "threshold": 201013,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_lapis_cherry"
+                }
+            },
+            {
+                "threshold": 201014,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_lapis_oak"
+                }
+            },
+            {
+                "threshold": 201015,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_lapis_spruce"
+                }
+            },
+            {
+                "threshold": 201016,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_redstone_birch"
+                }
+            },
+            {
+                "threshold": 201017,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_redstone_cherry"
+                }
+            },
+            {
+                "threshold": 201018,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_redstone_oak"
+                }
+            },
+            {
+                "threshold": 201019,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/diamond/diamond_redstone_spruce"
+                }
+            },
+            {
+                "threshold": 202000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_diamond_birch"
+                }
+            },
+            {
+                "threshold": 202001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_diamond_cherry"
+                }
+            },
+            {
+                "threshold": 202002,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_diamond_oak"
+                }
+            },
+            {
+                "threshold": 202003,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_diamond_spruce"
+                }
+            },
+            {
+                "threshold": 202004,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_gold_birch"
+                }
+            },
+            {
+                "threshold": 202005,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_gold_cherry"
+                }
+            },
+            {
+                "threshold": 202006,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_gold_oak"
+                }
+            },
+            {
+                "threshold": 202007,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_gold_spruce"
+                }
+            },
+            {
+                "threshold": 202008,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_iron_birch"
+                }
+            },
+            {
+                "threshold": 202009,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_iron_cherry"
+                }
+            },
+            {
+                "threshold": 202010,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_iron_oak"
+                }
+            },
+            {
+                "threshold": 202011,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_iron_spruce"
+                }
+            },
+            {
+                "threshold": 202012,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_lapis_birch"
+                }
+            },
+            {
+                "threshold": 202013,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_lapis_cherry"
+                }
+            },
+            {
+                "threshold": 202014,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_lapis_oak"
+                }
+            },
+            {
+                "threshold": 202015,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_lapis_spruce"
+                }
+            },
+            {
+                "threshold": 202016,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_redstone_birch"
+                }
+            },
+            {
+                "threshold": 202017,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_redstone_cherry"
+                }
+            },
+            {
+                "threshold": 202018,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_redstone_oak"
+                }
+            },
+            {
+                "threshold": 202019,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/emerald/emerald_redstone_spruce"
+                }
+            },
+            {
+                "threshold": 203000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_diamond_birch"
+                }
+            },
+            {
+                "threshold": 203001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_diamond_cherry"
+                }
+            },
+            {
+                "threshold": 203002,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_diamond_oak"
+                }
+            },
+            {
+                "threshold": 203003,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_diamond_spruce"
+                }
+            },
+            {
+                "threshold": 203004,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_emerald_birch"
+                }
+            },
+            {
+                "threshold": 203005,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_emerald_cherry"
+                }
+            },
+            {
+                "threshold": 203006,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_emerald_oak"
+                }
+            },
+            {
+                "threshold": 203007,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_emerald_spruce"
+                }
+            },
+            {
+                "threshold": 203008,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_iron_birch"
+                }
+            },
+            {
+                "threshold": 203009,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_iron_cherry"
+                }
+            },
+            {
+                "threshold": 203010,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_iron_oak"
+                }
+            },
+            {
+                "threshold": 203011,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_iron_spruce"
+                }
+            },
+            {
+                "threshold": 203012,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_lapis_birch"
+                }
+            },
+            {
+                "threshold": 203013,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_lapis_cherry"
+                }
+            },
+            {
+                "threshold": 203014,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_lapis_oak"
+                }
+            },
+            {
+                "threshold": 203015,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_lapis_spruce"
+                }
+            },
+            {
+                "threshold": 203016,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_redstone_birch"
+                }
+            },
+            {
+                "threshold": 203017,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_redstone_cherry"
+                }
+            },
+            {
+                "threshold": 203018,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_redstone_oak"
+                }
+            },
+            {
+                "threshold": 203019,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/gold/gold_redstone_spruce"
+                }
+            },
+            {
+                "threshold": 204000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_diamond_birch"
+                }
+            },
+            {
+                "threshold": 204001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_diamond_cherry"
+                }
+            },
+            {
+                "threshold": 204002,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_diamond_oak"
+                }
+            },
+            {
+                "threshold": 204003,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_diamond_spruce"
+                }
+            },
+            {
+                "threshold": 204004,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_emerald_birch"
+                }
+            },
+            {
+                "threshold": 204005,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_emerald_cherry"
+                }
+            },
+            {
+                "threshold": 204006,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_emerald_oak"
+                }
+            },
+            {
+                "threshold": 204007,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_emerald_spruce"
+                }
+            },
+            {
+                "threshold": 204008,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_gold_birch"
+                }
+            },
+            {
+                "threshold": 204009,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_gold_cherry"
+                }
+            },
+            {
+                "threshold": 204010,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_gold_oak"
+                }
+            },
+            {
+                "threshold": 204011,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_gold_spruce"
+                }
+            },
+            {
+                "threshold": 204012,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_lapis_birch"
+                }
+            },
+            {
+                "threshold": 204013,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_lapis_cherry"
+                }
+            },
+            {
+                "threshold": 204014,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_lapis_oak"
+                }
+            },
+            {
+                "threshold": 204015,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_lapis_spruce"
+                }
+            },
+            {
+                "threshold": 204016,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_redstone_birch"
+                }
+            },
+            {
+                "threshold": 204017,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_redstone_cherry"
+                }
+            },
+            {
+                "threshold": 204018,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_redstone_oak"
+                }
+            },
+            {
+                "threshold": 204019,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/iron/iron_redstone_spruce"
+                }
+            },
+            {
+                "threshold": 205000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_diamond_birch"
+                }
+            },
+            {
+                "threshold": 205001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_diamond_cherry"
+                }
+            },
+            {
+                "threshold": 205002,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_diamond_oak"
+                }
+            },
+            {
+                "threshold": 205003,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_diamond_spruce"
+                }
+            },
+            {
+                "threshold": 205004,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_emerald_birch"
+                }
+            },
+            {
+                "threshold": 205005,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_emerald_cherry"
+                }
+            },
+            {
+                "threshold": 205006,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_emerald_oak"
+                }
+            },
+            {
+                "threshold": 205007,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_emerald_spruce"
+                }
+            },
+            {
+                "threshold": 205008,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_gold_birch"
+                }
+            },
+            {
+                "threshold": 205009,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_gold_cherry"
+                }
+            },
+            {
+                "threshold": 205010,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_gold_oak"
+                }
+            },
+            {
+                "threshold": 205011,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_gold_spruce"
+                }
+            },
+            {
+                "threshold": 205012,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_iron_birch"
+                }
+            },
+            {
+                "threshold": 205013,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_iron_cherry"
+                }
+            },
+            {
+                "threshold": 205014,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_iron_oak"
+                }
+            },
+            {
+                "threshold": 205015,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_iron_spruce"
+                }
+            },
+            {
+                "threshold": 205016,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_redstone_birch"
+                }
+            },
+            {
+                "threshold": 205017,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_redstone_cherry"
+                }
+            },
+            {
+                "threshold": 205018,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_redstone_oak"
+                }
+            },
+            {
+                "threshold": 205019,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/lapis/lapis_redstone_spruce"
+                }
+            },
+            {
+                "threshold": 206000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_diamond_birch"
+                }
+            },
+            {
+                "threshold": 206001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_diamond_cherry"
+                }
+            },
+            {
+                "threshold": 206002,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_diamond_oak"
+                }
+            },
+            {
+                "threshold": 206003,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_diamond_spruce"
+                }
+            },
+            {
+                "threshold": 206004,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_emerald_birch"
+                }
+            },
+            {
+                "threshold": 206005,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_emerald_cherry"
+                }
+            },
+            {
+                "threshold": 206006,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_emerald_oak"
+                }
+            },
+            {
+                "threshold": 206007,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_emerald_spruce"
+                }
+            },
+            {
+                "threshold": 206008,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_gold_birch"
+                }
+            },
+            {
+                "threshold": 206009,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_gold_cherry"
+                }
+            },
+            {
+                "threshold": 206010,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_gold_oak"
+                }
+            },
+            {
+                "threshold": 206011,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_gold_spruce"
+                }
+            },
+            {
+                "threshold": 206012,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_iron_birch"
+                }
+            },
+            {
+                "threshold": 206013,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_iron_cherry"
+                }
+            },
+            {
+                "threshold": 206014,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_iron_oak"
+                }
+            },
+            {
+                "threshold": 206015,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_iron_spruce"
+                }
+            },
+            {
+                "threshold": 206016,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_lapis_birch"
+                }
+            },
+            {
+                "threshold": 206017,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_lapis_cherry"
+                }
+            },
+            {
+                "threshold": 206018,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_lapis_oak"
+                }
+            },
+            {
+                "threshold": 206019,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/samurai/redstone/redstone_lapis_spruce"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/burning/burning_diamond_sword"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "model",
+                    "model": "item/hands/blades/rainbow/rainbow_diamond_sword"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/string"
+        },
+        "entries": [
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/oak"
+                }
+            },
+            {
+                "threshold": 10101,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/spruce"
+                }
+            },
+            {
+                "threshold": 10102,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/acacia"
+                }
+            },
+            {
+                "threshold": 10103,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/dark_oak"
+                }
+            },
+            {
+                "threshold": 10104,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/crimson"
+                }
+            },
+            {
+                "threshold": 10105,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/warped"
+                }
+            },
+            {
+                "threshold": 10106,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/mangrove"
+                }
+            },
+            {
+                "threshold": 10107,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/cherry"
+                }
+            },
+            {
+                "threshold": 10108,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/bamboo"
+                }
+            }
+        ]
+    }
+}

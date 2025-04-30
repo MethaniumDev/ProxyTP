@@ -1,0 +1,418 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/feather"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/friendadd"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/friend_wait"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/friendremove"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/partyinvite"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/partyinvite_wait"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/partykick"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/mute"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/unmute"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/report"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/stats"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/nocosmetic"
+                }
+            },
+			{
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/friendaccept"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/byname"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/alphabetically"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/reversealphabetically"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/lastseen"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/onoff"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/online"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/offline"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/clan"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/friends"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/requests"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "item/buttons/filters/everyone"
+                }
+            },
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat1"
+                }
+            },
+            {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat2"
+                }
+            },
+            {
+                "threshold": 10300,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat3"
+                }
+            },
+            {
+                "threshold": 10400,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat4"
+                }
+            },
+            {
+                "threshold": 10500,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat5"
+                }
+            },
+            {
+                "threshold": 10600,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat6"
+                }
+            },
+            {
+                "threshold": 10700,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat7"
+                }
+            },
+            {
+                "threshold": 10800,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat8"
+                }
+            },
+            {
+                "threshold": 10900,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat9"
+                }
+            },
+            {
+                "threshold": 11000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat10"
+                }
+            },
+            {
+                "threshold": 11100,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat11"
+                }
+            },
+            {
+                "threshold": 11200,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat12"
+                }
+            },
+            {
+                "threshold": 11300,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat13"
+                }
+            },
+            {
+                "threshold": 11400,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat14"
+                }
+            },
+            {
+                "threshold": 11500,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat15"
+                }
+            },
+            {
+                "threshold": 11600,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophat16"
+                }
+            },
+            {
+                "threshold": 11700,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/tophat/tophatanimated"
+                }
+            },
+            {
+                "threshold": 20100,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_admin"
+                }
+            },
+            {
+                "threshold": 20200,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_amethyst"
+                }
+            },
+            {
+                "threshold": 20300,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_beacon"
+                }
+            },
+            {
+                "threshold": 20400,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_bughunter"
+                }
+            },
+            {
+                "threshold": 20500,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_emerald"
+                }
+            },
+            {
+                "threshold": 20600,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_iron"
+                }
+            },
+            {
+                "threshold": 20700,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_nether"
+                }
+            },
+            {
+                "threshold": 20800,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/gold/crown_ruby"
+                }
+            },
+            {
+                "threshold": 20900,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_admin"
+                }
+            },
+            {
+                "threshold": 21000,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_amethyst"
+                }
+            },
+            {
+                "threshold": 21100,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_beacon"
+                }
+            },
+            {
+                "threshold": 21200,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_bughunter"
+                }
+            },
+            {
+                "threshold": 21300,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_emerald"
+                }
+            },
+            {
+                "threshold": 21400,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_gold"
+                }
+            },
+            {
+                "threshold": 21500,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_nether"
+                }
+            },
+            {
+                "threshold": 21600,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/crown/silver/crown_ruby"
+                }
+            },
+            {
+                "threshold": 30100,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/samurai/samurai_mask_red_gold"
+                }
+            },
+            {
+                "threshold": 30101,
+                "model": {
+                    "type": "model",
+                    "model": "item/hats/samurai/samurai_mask_blue_silver"
+                }
+            }
+        ]
+    }
+}

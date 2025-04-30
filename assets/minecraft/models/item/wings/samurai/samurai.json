@@ -2,7 +2,7 @@
 	"credit": "@viniochomil",
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "cosmetics:textures/block/samuraiwings"
+		"1": "block/samuraiwings"
 	},
 	"elements": [
 		{

@@ -1,0 +1,208 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "model",
+                    "model": "item/test/test"
+                }
+            },
+            {
+                "threshold": 200,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/devilwings/devilwings"
+                }
+            },
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly1"
+                }
+            },
+            {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly2"
+                }
+            },
+            {
+                "threshold": 10300,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly3"
+                }
+            },
+            {
+                "threshold": 10400,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly4"
+                }
+            },
+            {
+                "threshold": 10500,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly5"
+                }
+            },
+            {
+                "threshold": 10600,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly6"
+                }
+            },
+            {
+                "threshold": 10700,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly7"
+                }
+            },
+            {
+                "threshold": 10800,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly8"
+                }
+            },
+            {
+                "threshold": 10900,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly9"
+                }
+            },
+            {
+                "threshold": 11000,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly10"
+                }
+            },
+            {
+                "threshold": 11100,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly11"
+                }
+            },
+            {
+                "threshold": 11200,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly12"
+                }
+            },
+            {
+                "threshold": 11300,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly13"
+                }
+            },
+            {
+                "threshold": 11400,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly14"
+                }
+            },
+            {
+                "threshold": 11500,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly15"
+                }
+            },
+            {
+                "threshold": 11600,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/butterfly/butterfly16"
+                }
+            },
+            {
+                "threshold": 20100,
+                "model": {
+                    "type": "model",
+                    "model": "item/wings/angelwings/angelwings"
+                }
+            },
+            {
+                "threshold": 30100,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/oak"
+                }
+            },
+            {
+                "threshold": 30101,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/spruce"
+                }
+            },
+            {
+                "threshold": 30102,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/acacia"
+                }
+            },
+            {
+                "threshold": 30103,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/dark_oak"
+                }
+            },
+            {
+                "threshold": 30104,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/crimson"
+                }
+            },
+            {
+                "threshold": 30105,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/warped"
+                }
+            },
+            {
+                "threshold": 30106,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/mangrove"
+                }
+            },
+            {
+                "threshold": 30107,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/cherry"
+                }
+            },
+            {
+                "threshold": 30108,
+                "model": {
+                    "type": "model",
+                    "model": "item/backpacks/wood/bamboo"
+                }
+            }
+        ]
+    }
+}

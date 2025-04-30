@@ -1,0 +1,75 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/prismarine_shard"
+        },
+        "entries": [
+            {
+                "threshold": 10100,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/alex"
+                }
+            },
+            {
+                "threshold": 10200,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/elibrio"
+                }
+            },
+            {
+                "threshold": 10300,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/flo"
+                }
+            },
+            {
+                "threshold": 10400,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/yaku"
+                }
+            },
+            {
+                "threshold": 10500,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/jreap"
+                }
+            },
+            {
+                "threshold": 10600,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/ssc"
+                }
+            },
+            {
+                "threshold": 10700,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/xlagging"
+                }
+            },
+            {
+                "threshold": 10800,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/yluz"
+                }
+            },
+            {
+                "threshold": 10900,
+                "model": {
+                    "type": "model",
+                    "model": "item/plushies/plushie/mewjo_"
+                }
+            }
+        ]
+    }
+}

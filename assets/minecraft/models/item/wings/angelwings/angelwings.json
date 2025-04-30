@@ -1,8 +1,8 @@
 {
 	"credit": "@viniochomil",
 	"textures": {
-		"0": "cosmetics:textures/block/angelwings",
-		"0": "cosmetics:textures/block/ore_blocks"
+		"0": "block/angelwings",
+		"1": "block/ore_blocks"
 	},
 	"elements": [
 		{

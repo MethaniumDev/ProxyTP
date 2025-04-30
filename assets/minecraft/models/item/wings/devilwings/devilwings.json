@@ -1,7 +1,7 @@
 {
 	"credit": "@viniochomil",
 	"textures": {
-		"0": "cosmetics:textures/block/devilwings",
+		"1": "block/devilwings",
 		"particle": "block/devilwings"
 	},
 	"elements": [

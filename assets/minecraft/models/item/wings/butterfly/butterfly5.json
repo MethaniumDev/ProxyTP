@@ -2,7 +2,7 @@
 	"credit": "alexemmet",
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "cosmetics:textures/block/butterflys"
+		"1": "block/butterflys"
 	},
 	"elements": [
 		{
